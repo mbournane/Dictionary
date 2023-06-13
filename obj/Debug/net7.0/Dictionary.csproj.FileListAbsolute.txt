@@ -1,0 +1,15 @@
+C:\WildSchoul_Formation\S04\Quests\Dictionary\bin\Debug\net7.0\Dictionary.exe
+C:\WildSchoul_Formation\S04\Quests\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+C:\WildSchoul_Formation\S04\Quests\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+C:\WildSchoul_Formation\S04\Quests\Dictionary\bin\Debug\net7.0\Dictionary.dll
+C:\WildSchoul_Formation\S04\Quests\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+C:\WildSchoul_Formation\S04\Quests\Dictionary\obj\Debug\net7.0\Dictionary.csproj.AssemblyReference.cache
+C:\WildSchoul_Formation\S04\Quests\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\WildSchoul_Formation\S04\Quests\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+C:\WildSchoul_Formation\S04\Quests\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+C:\WildSchoul_Formation\S04\Quests\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\WildSchoul_Formation\S04\Quests\Dictionary\obj\Debug\net7.0\Dictionary.dll
+C:\WildSchoul_Formation\S04\Quests\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+C:\WildSchoul_Formation\S04\Quests\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+C:\WildSchoul_Formation\S04\Quests\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+C:\WildSchoul_Formation\S04\Quests\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll
